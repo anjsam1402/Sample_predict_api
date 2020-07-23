@@ -1,2 +1,2 @@
-# NER_predict_app
+# sample_predict_api
  
